@@ -1,0 +1,9 @@
+[
+	{
+		"path": "/feeds/*",
+		"data": true,
+		"auth": {
+			"validator": "$auth != null"
+		}
+	}
+]
