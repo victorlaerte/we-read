@@ -7,7 +7,7 @@
 		},
 		"parameters": {
 	    	"filter": {
-					"value": {
+				"value": {
 					"userId": "$auth.id"
 				}
 			}
